@@ -1,0 +1,473 @@
+
+/* nabbar section  */
+.navbar {
+    background-color: #daac00!important;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(221 20 20 / 90%);
+    padding: 0 15px;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(221 20 20 / 90%);
+    font-size: 20px;
+    padding: 0 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+/* benner section  */
+.benner{
+    background-color: #fcc302;
+}
+
+.benner-item {
+    position: relative;
+    
+}
+.benner-item img{
+    
+    position:absolute;
+    right: 0;
+    top: 50px;
+}
+.benner-item h1{
+    padding-top: 200px;
+    text-transform: uppercase;
+    font-size: 45px;
+    font-weight: 800;
+    color: #ffffff;
+
+}
+.benner-item p{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 300px;
+}
+.contact{
+    position: absolute;
+    top: 450px;
+    padding: 8px 30px;
+    background-color: #fcc302;
+    border: solid 1px #ffffff;
+    text-transform: uppercase;
+    font-size: 20px ;
+    font-weight: 600;
+    border-radius: 10px;    
+}
+.contact:hover{
+    background-color: #00bec9;
+    border: solid #00bec9;
+    color: #ffffff;
+    transition: all linear 500ms;
+}
+.contactt{
+    position: absolute;
+    top: 450px;
+    left: 200px;
+    padding: 8px 25px;
+    background-color: #fcc302;
+    border: solid 1px #ffffff;
+    text-transform: uppercase;
+    font-size: 20px ;
+    font-weight: 600;
+    border-radius: 10px;
+}
+.contactt:hover{
+    background-color: #00bec9;
+    border: solid #00bec9;
+    color: #ffffff;
+    transition: all linear 500ms;
+}
+
+/* animel llove section  */
+.aneimel_item {
+    position: relative;
+}
+.video1{
+    position: absolute;
+    right: 0;
+    top: 280px;
+    border-radius: 15px;
+    
+}
+.backgrawond {
+    position: absolute;
+    background-color: #fcc302;
+    height: 127px;
+    width: 136px;
+    right: 337px;
+    top: 432px;
+}
+
+.aneimel_item h1{
+    padding-top: 250px;
+    font-size: 50px ;
+    font-weight: 800;
+    
+}
+.aneimel_item p{
+    font-size: 19px;
+    font-weight: 400;
+    padding-bottom: 250px;
+}
+.aneimel_item a{
+    position: absolute;
+    left: 0;
+    padding: 9px 35px ;
+    background-color: #fcc302;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    top: 550px;
+}
+.aneimel_item a:hover{
+    text-decoration: none;
+    color: #ffffff;
+   
+}
+
+
+/* health cear section */
+.health{
+    padding: 200px 0;
+    background-color: #fcc302;
+}
+
+
+.health-de h1{
+    text-align: center;
+    font-size: 55px;
+    font-weight: 700;
+    color: #ffffff;
+}
+.health-de p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: #ffffff;
+    padding-bottom: 100px;
+}
+
+.health-text h1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    color: #ffffff;
+    padding-top: 30px;
+}
+.health-text p{
+    text-align: center;
+    font-size: 19px;
+    font-weight: 700;
+    color: #ffffff;
+    
+    
+}
+/* animel llove section 2 */
+.aneimel_item2{
+    position: relative;
+}
+.aneimel_item2 h1{
+    text-align: right;
+    font-size: 50px;
+    font-weight: 700;
+    padding-top: 250px;
+}
+.aneimel_item2 p{
+    text-align: right;
+    font-size: 19px;
+    font-weight: 400;
+    padding-bottom: 350px;
+}
+.aneimel_item2 a{
+    position: absolute;
+    right: 0;
+    top: 550px;
+    padding: 9px 35px;
+    color: #ffffff;
+    background-color: #fcc302;    
+    border-radius: 15px;
+}
+.aneimel_item2 a:hover{
+    background-color: #00bec9;
+    color: black;
+    text-decoration: none;
+}
+
+.video2 {
+    position: absolute;
+    top: 300px;
+    left: 0;
+    border-radius: 15px;
+}
+.backgrawond2 {
+    position: absolute;
+    background-color: #fcc302;
+    height: 127px;
+    width: 136px;
+    top: 465px;
+    left: 350px;
+}
+
+
+/* pet stor  */
+.pet_stor{
+    padding: 100px 0;
+    background-color: #fcc302;
+}
+.pet-de h1{
+    text-align: center;
+    font-size: 55px;
+    color: #ffffff;
+    font-weight: 700;
+}
+.pet-de p{
+    
+    text-align: center;
+    font-weight: 400;
+    font-size: 19px;
+    color: #00bec9;
+    padding-bottom: 50px;
+}
+.pet-text h1{
+    padding-top:20px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: center;
+    
+}
+.pet-text h5{
+    display: flex;
+    display: inline;
+    text-align: center;
+}
+.pet-text {
+    text-align: center;
+    position: relative;
+}
+.pet-text a{
+    position: absolute;
+    top: 90px;
+    left: 100px;
+    border: solid #ffffff 2px;
+    color: black;
+    padding: 9px 35px;
+    border-radius: 25px;
+    text-transform: uppercase;
+
+}
+.pet-text a:hover{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #00bec9;
+}
+
+/* doctor section  */
+.doctor{
+    padding: 150px 0;
+    text-align: center;
+}
+.doctor-de h1{
+    font-size: 55px;
+    color: black;
+    font-weight: 800;
+    text-align: center;
+    text-transform: uppercase;
+}
+.doctor-de p{
+    text-align: center;
+    font-size: 19px;
+    font-weight: 400;
+    color: black;
+    padding-bottom: 50px;
+}
+.doctor-item h3{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fcc302;
+    padding-top: 25px;
+    text-transform: uppercase;
+}
+.doctor-item h4{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fcc302;
+    text-transform: uppercase;
+}
+.doctor .icon{
+    padding-top: 25px;
+}
+.doctor .icon a{
+    padding: 15px 20px;    
+    font-size: 20px;
+    background-color: #daac00;
+    color: rgb(0, 0, 0);
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+}
+
+
+/* vacsine section   */
+
+.vacsine {
+    position: relative;
+    background-image: url("../image/benner/img2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding: 200px 0;
+}
+.vacsine-det {
+    position: absolute;
+    background-color: #fcc302;
+    opacity: 50%;
+    height: 100%;
+    width: 100%;
+    top: 0;    
+}
+.vacsine-det:hover{
+    opacity: 90%;
+    transition: all linear 500ms;
+    
+}
+.vacsine-item .icon {
+    text-align: center;
+}
+.vacsine-item .icon a{
+    font-size: 100px;
+    font-weight: 700;
+
+}
+.vacsine-item h3{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    color: #ffffff;
+}
+.vacsine-item h4{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+/* resent post section  */
+.post {
+    padding: 150px 0;
+    background-color: #fbfbfb;
+}
+.post-text{
+    background-color: #ffffff;
+    padding-bottom: 50px;
+    border: solid black 1px ;
+    padding: 10px;
+}
+.post .post-det h1{
+    text-align: center;
+    font-size: 55px;
+    font-weight: 700;
+    color: black;
+    text-transform: uppercase;
+}
+.post .post-det p{
+    text-align: center;
+    font-size: 19px;
+    font-weight: 400;
+    color: black;
+    padding-bottom: 30px;
+}
+.post .post-text h5{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+    padding-top: 25px;
+}
+.post .post-text h6{
+    color: rgb(3, 189, 189);
+    font-size: 16px;
+    font-weight: 700;
+    
+}
+.post .post-text p{
+    font-size: 19px;
+    font-weight: 400;
+    color: black;
+}
+.post .post-text a{
+    text-decoration: none;
+    color: #00bec9;
+    
+}
+
+/* foter section  */
+.foter{
+    background-color: #343434;
+    padding: 100px 0;
+}
+.foter-coment h2{
+    color: #fbfbfb;
+    font-size: 26px;
+    font-weight: 700;
+    text-align: right;
+    text-transform: uppercase;
+}
+.foter-coment p{
+    color: #ffffff;
+    font-size: 19px;
+    font-weight: 400;
+}
+.foter-coment{
+    text-align: right;
+    position: relative;
+}
+.foter-coment input{
+    
+    background-color: #fcc302;
+    padding: 10px 50px;
+    border: solid #fcc302 1px ;
+    color: #00bec9;
+    font-weight: 700;
+    
+}
+.foter-coment input:focus{
+    border: solid #fcc302 1px ;
+    background-color: #fcc302;
+}
+.foter-coment button{
+    padding: 10px 25px;
+    background-color: #00bec9;
+    color: #ffffff;
+    position: absolute;
+    border: solid #00bec9 1px;
+    right: 0;
+}
+.foter-coment .foter-icon a{
+    font-size: 30px;
+    padding: 10px 10px;
+    transition: all linear 1000ms;
+}
+.foter .foter-about h3 a{
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: 700;
+    text-decoration: none;
+
+}
+.foter .foter-about h5 a {
+    color: #ffffff;
+    font-size: 19px;
+    font-weight: 400;
+    text-decoration: none;
+}

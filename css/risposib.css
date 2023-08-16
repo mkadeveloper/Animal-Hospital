@@ -1,0 +1,137 @@
+@media (max-width: 575.98px) { 
+
+
+    .benner-item img {
+        
+        width: 267px;
+    }
+
+
+    .benner-item h1 {        
+        font-size: 27px;
+        
+    }
+    .benner-item p {        
+        font-size: 13px;
+       
+    }
+    .contactt {
+        position: absolute;        
+        left: 290px;        
+        background-color: #53991a;     
+      
+    }
+    .contact {       
+        
+        left: 71px;       
+        background-color: #03c15e;
+        border: solid 1px #ffffff;
+    }
+
+    .aneimel_item h1 {
+        padding-top: 100px;
+        font-size: 36px;
+     }
+     .aneimel_item a {               
+        top: 380px;
+    }
+    .backgrawond {
+        
+        right: 189px;
+        top: 415px;
+    }
+
+
+    .video1{
+        height: 170px ;
+        width: 300px;
+        top: 350px;
+    }
+
+
+
+
+    .health-de h1 {        
+        font-size: 45px;       
+    }
+    .health-de p {
+        
+        font-size: 15px;
+       
+    }
+    .health-item{
+        text-align: center;
+    }
+
+
+    .aneimel_item2 h1 {
+        text-align: center;
+        font-size: 33px;
+        font-weight: 800;
+        padding-top: 85px;
+    }
+    .aneimel_item2 p {
+        text-align: center;
+        font-size: 15px;
+        font-weight: 400;
+        padding-bottom: 350px;
+    }
+    .video2{
+        width: 350px;
+        height: 200px;
+        left: 100px;
+        top: 250px;
+    }
+    .backgrawond2 {
+        
+        background-color: #ffffff;
+        
+    }
+    .aneimel_item2 a {
+       
+        right: 195px;
+        top: 494px;
+    }  
+    .pet-de h1 {        
+        font-size: 44px;        
+    }
+    .pet-de p {        
+        font-size: 14px;        
+    }
+    .pet-item{
+        text-align: center;
+        padding-top: 100px;
+    }
+
+    .pet-img-2{
+        height: 250px;
+        width: 300px;
+    }
+    .pet-text a {
+        
+        left: 194px;
+        
+    }
+    .doctor-item{
+        padding-top: 100px;
+    }
+
+    .post-text{
+        text-align: center;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
